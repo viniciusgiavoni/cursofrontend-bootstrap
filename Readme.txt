@@ -1,10 +1,9 @@
-Olá, seja bem vindo ao meu repositório Git.
+Olá, seja bem vindo ao meu repositório Github.
 
-Esta pasta é relacionada ao conteúdo educacional de aprendizado para Bootstrap.
-Foi criado durante as aulas uma single page de um e-commerce. Neste projeto foi realizado
-aplicações no grid layout, conceitos de layout responsivo, elementos DO e Modals na parte 1  do curso.
+Esta pasta é relacionada ao conteúdo educacional de aprendizado Bootstrap.
+Foi criado durante as aulas uma single page para um e-commerce. Neste projeto foi realizado aplicações no grid layout, conceitos de layout responsivo, elementos DO e Modals.
 
-Ainda estou desenvolvendo a parte 2...
+Continua em desenvolvimento...
 
 Obrigado;
 Vinícius Giavoni
