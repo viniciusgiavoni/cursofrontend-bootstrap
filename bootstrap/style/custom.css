@@ -12,7 +12,47 @@ textarea {
 }
 
 .card {
-    width: 30%;
+    width: 32%;
     float: left;
     margin: 5px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card img:hover:hover {
+    filter: grayscale(100%);
+}
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+#img-center {
+    margin: 0, 0, auto;
+  }
+
+#contato {
+    background-color: rgb(81, 162, 255);
+    color: white;
+}
+
+@media (max-width: 425px) {
+    /* For mobile phones: */
+    .card {
+        width: 100%;
+    }
+    #button-site-completo {
+        margin-bottom: 20px;
+    } 
+}
+
+@media (min-width: 425px) and (max-width: 1025px) {
+    /* For tablet: */
+    .card {
+        width: 80%;
+    }
+    #button-site-completo {
+        margin-bottom: 20px;
+    }
 }
